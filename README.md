@@ -7,9 +7,9 @@ Dependent Variable:- 1,
 Dependent Variable Type: Binary and categorical
 
 #####  Independent Variables were:                                                                               
-Age: Age of employees,                                                                                                                                                        
+Age: Age of employees,                                                                                                                                                           
 Department: Department of work,                                                             
-Distance from home,
+Distance from home,                                                                                                                                                               
 Education: 1-Below College; 2-College; 3-Bachelor; 4-Master; 5-Doctor;
 Education Field
 Environment Satisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;                               
