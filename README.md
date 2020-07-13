@@ -35,5 +35,11 @@ In order to find a model which could help with the prediction process we ran sev
 7. Grid Search CV
 
 
+## Summary
+- Of all the models applied on the dataset, grid search CV suggests the best accuracy score of the Gaussian Naïve Bayes classifier i.e 0.86. 
+- Even after the hyperparameter tuning of the various models, the best scores of each fell less of the accuracy score of the Naïve Bayes Classifier.
+- Gaussian Naive Bayes is an algorithm having a Probabilistic Approach. It involves prior and posterior probability calculation of the classes in the dataset and the test data   given a class respectively. This makes the classification of data more accurate.
+
+
 
 
