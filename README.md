@@ -1,13 +1,10 @@
 # Employee-Attrition-Rate
 
 ## Data Description
-8 Columns 
-Independent Variables:- 7,
-Dependent Variable:- 1,
-Dependent Variable Type: Binary and categorical
+The dataset consists of 14710 obseravtions and 8 variables. Each row in dataset represents an employee; each column contains employee attributes:
 
 #####  Independent Variables were:                                                                               
-Age: Age of employees,                                                                                                                                                           
+- Age: Age of employees,                                                                                                                                                           
 Department: Department of work,                                                             
 Distance from home,                                                                                                                                                               
 Education: 1-Below College; 2-College; 3-Bachelor; 4-Master; 5-Doctor;                                                                                                           
@@ -21,7 +18,7 @@ Work Life Balance: 1-Bad; 2-Good; 3-Better; 4-Best;
 Years At Company: Current years of service in IBM 
 
 ##### Dependent Variable was:
-Attrition: Employee attrition status
+Attrition: Employee attrition status(0 or 1)
 
 ## Techniques Used
 Logistic Regression,                                                                                                                                                             
